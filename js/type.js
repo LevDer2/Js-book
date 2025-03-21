@@ -82,6 +82,6 @@
 // allDinosaurs.length[2];
 // console.log(allDinosaurs);
 
-const names = ["Yakko", "Nazar", "Max"];
-names.length[2];
-console.log(names);
+// const names = ["Yakko", "Nazar", "Max"];
+// names.length[2];
+// console.log(names);
