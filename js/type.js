@@ -77,3 +77,11 @@
 // const accompained = false;
 // const result = age && !accompained;
 // console.log(result);
+
+// const allDinosaurs = ["T-rex", "Velociratour", "Tricerators", 3, ["ght", "stg", 5], 12];
+// allDinosaurs.length[2];
+// console.log(allDinosaurs);
+
+const names = ["Yakko", "Nazar", "Max"];
+names.length[2];
+console.log(names);
